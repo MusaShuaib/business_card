@@ -1,0 +1,44 @@
+body {
+    background-color: white; 
+}
+.business-card {
+    background-color: blue;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 400px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.portfolio {
+    text-align: center;
+}
+.social-media{
+    text-align: center;
+}
+hr {
+    border: 1px solid white;
+    width: 80%;
+}
+a {
+    color: black;
+    text-align:center;
+
+}
+a:active  {
+    color: black;
+}
+a:hover {
+    color: white;
+}
+img {
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 50%;
+}
+h1, h2, p {
+    text-align: center;
+    color: white;
+}
